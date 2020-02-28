@@ -1,4 +1,10 @@
 {
   "app.component": "App Component ES Hook",
-  "app.classcomponent": "Traducciones con ES HOC"
+  "app.classcomponent": "Traducciones con ES HOC",
+  "example": "Ejemplos",
+  "form.termsAndConditions": "He leído y acepto los <1>strong tag, key 1</1> <2>b tag, key 2</2> <5>Términos y condiciones</5> correspondientes y que legal nos ha indicado",
+  "userMessagesUnread": "Hola <1>{{name}}</1>, you have {{count}} unread message. {{ count }}  <7>Go to message</7>.",
+  "userMessagesUnread_plural": "Hola <1>{{name}}</1>, you have {{count}} unread messages. {{ count }}  <7>Go to messages</7>.",
+  "nameTitle": "nameTitle ES",
+  "appWithContext": "Texto en componente y traducido desde React.useContext(LocalizationContext) ES"
 }

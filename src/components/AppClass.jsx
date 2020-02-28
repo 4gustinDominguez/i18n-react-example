@@ -6,7 +6,7 @@ class AppClass extends React.Component {
   render() {
     const { t } = this.props;
     return (
-      <div style={{ border: '1px solid red', padding: '3em' }}>
+      <div className="hoc_div">
         {t('app.classcomponent')}
       </div>
     )
